@@ -589,3 +589,26 @@ a {
         flex-basis: calc((100% - 72px)/4);
     }
 }
+
+
+/*============== /TEAM SECTION ==============*/
+
+
+/*============== PORTFOLIO SECTION ==============*/
+
+.box .overlay {
+    display: none;
+}
+
+.portfolio-section {
+    padding: 96px 0;
+}
+
+.portfolio-title {
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    padding-bottom: 72px;
+}
